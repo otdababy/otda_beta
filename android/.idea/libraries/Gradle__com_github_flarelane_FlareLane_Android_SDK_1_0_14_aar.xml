@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.flarelane:FlareLane-Android-SDK:1.0.14@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c1dcd458dccf026c091577a94f177da4/transformed/jetified-FlareLane-Android-SDK-1.0.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c1dcd458dccf026c091577a94f177da4/transformed/jetified-FlareLane-Android-SDK-1.0.14/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c1dcd458dccf026c091577a94f177da4/transformed/jetified-FlareLane-Android-SDK-1.0.14/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.flarelane/FlareLane-Android-SDK/1.0.14/6878a0643206046b5da96ee2763539c0278d4b55/FlareLane-Android-SDK-1.0.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
